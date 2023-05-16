@@ -35,3 +35,7 @@ docker run --name container1 -p 80:8080 -d ubuntu/nginx
 ```
 
 *** 
+
+
+**Status vom Container überprüfen:**
+
