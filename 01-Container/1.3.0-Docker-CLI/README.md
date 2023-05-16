@@ -6,6 +6,7 @@
  ```
  docker --version
  ```
+***
 
 **Docker Image auf Docker-HUB suchen:**
 
